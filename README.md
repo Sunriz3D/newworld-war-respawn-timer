@@ -10,5 +10,5 @@ https://www.autohotkey.com/download/ahk-install.exe
 #### Usage 
 
 
-1) Run countdown.ahk
+1) Run countdown.ahk/exe 
 2) Press F11 when the war is starting (gates open)
