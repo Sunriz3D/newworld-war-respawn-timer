@@ -1,5 +1,5 @@
 # New World War Respawn Timer
-===========
+----
 
 Not all timers are 100% correct, let me know if you got them so I can ajust.
 ----
