@@ -2,6 +2,12 @@
 #SingleInstance, Force
 global Timers_Running := 1
 
+FileInstall, respawn_10.mp3, respawn_10.mp3
+FileInstall, respawn_10_321.mp3, respawn_10_321.mp3
+FileInstall, respawn_10_54321.mp3, respawn_10_54321.mp3
+FileInstall, respawn_off.mp3, respawn_off.mp3
+FileInstall, respawn_on.mp3, respawn_on.mp3
+
 2450TENFIVE := -((5 * 60 + 10 - 10)* 1000)
 2423TENFIVE := -((5 * 60 + 37 - 10)* 1000)
 2356TENFIVE := -((6 * 60 + 4 - 10)* 1000)
